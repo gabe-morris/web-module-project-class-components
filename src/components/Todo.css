@@ -11,14 +11,19 @@ background-color: #3e3c3c
 
 h1{
     background-color: #092158;
+    color: #A3AAAA
 }
-
+button{
+    background-color:#092158;
+    color: #A3AAAA
+}
 .App{
 font-family:'Open Sans Condensed', sans-serif;
 text-align: center;
 
 }
 .item{
+    font-size: 1.8em;
     color: #A3AAAA
 }
 
